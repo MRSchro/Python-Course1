@@ -1,9 +1,5 @@
 """
-Week 1 Sandbox
----------------
-All the little experiments from the first lecture.
-Run `python week1_sandbox.py` to see each section's output.
-"""
+Chapter 1:
 
 # ── Example 1: print and input ──────────────────────────────────────────────
 print("Hello, World!")
@@ -16,3 +12,8 @@ print("5 ** 2 =", a ** b)      # exponent
 print("5 // 2 =", a // b)      # floor division
 
 
+Chapter 2:
+
+
+
+"""
