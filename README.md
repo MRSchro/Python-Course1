@@ -18,10 +18,16 @@
 | [`notes/`](notes/) | Markdown summaries of each week’s lectures (syntax, tips, gotchas). |
 | [`exercises/`](exercises/) | My solutions to the practice problems (with docstrings & comments). |
 | [`mini_projects/`](mini_projects/) | Small scripts that tie concepts together—number guessing game, text file analysis, etc. |
-| [`screenshots/`](screenshots/) | Output proofs & VS Code snippets (optional eye-candy for reviewers). |
-| [`resources.md`](resources.md) | External links: official docs, blog posts, cheat-sheets I liked. |
 
 *(Folder names are suggestions—adjust to match your actual structure.)*
+
+---
+
+## 🧩 Mini-Projects Roadmap (Course 1)
+
+- [ ] **Tip Calculator** – asks bill + percentage, prints total and per-person split  
+- [ ] **Number Guessing Game** – random 1-100, counts guesses, gives high/low hints  
+- [ ] **Unit Converter** – miles ↔ km, lbs ↔ kg, °F ↔ °C via menu loop  
 
 ---
 
