@@ -33,7 +33,7 @@ x <= y # x is less than or equal to y
 x is y # x is the same as y
 x is not y # x is not the same as y
 """
-
+'''
 hrs = input("Enter Hours:")
 h = float(hrs)
 rte = input("Enter Rate:")
@@ -48,3 +48,9 @@ try:
         print(pay)
 except ValueError:
     print("Must be a number value")
+'''
+
+zork = 0
+for thing in [9, 41, 12, 3, 74, 15] :
+    zork = zork + thing
+print('After', zork)
